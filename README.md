@@ -1,0 +1,2 @@
+# gosk
+go system k
